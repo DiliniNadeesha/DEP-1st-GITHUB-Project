@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="009464fb-2e66-48f8-8733-c88099549694" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LIECNSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,11 +66,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="LIECNSE" value="2" />
           <entry key="class" value="1" />
           <entry key="css" value="3" />
           <entry key="customer" value="2" />
           <entry key="fxml" value="2" />
           <entry key="java" value="191" />
+          <entry key="md" value="2" />
           <entry key="properties" value="3" />
           <entry key="sql" value="1" />
         </counts>
@@ -79,6 +83,8 @@
           <entry key="CSS" value="3" />
           <entry key="Database Element" value="2" />
           <entry key="JAVA" value="191" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="Properties" value="3" />
           <entry key="Scratch" value="1" />
           <entry key="XML" value="2" />
@@ -86,7 +92,9 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="LIECNSE" value="28" />
           <entry key="java" value="16" />
+          <entry key="md" value="174" />
           <entry key="properties" value="1" />
           <entry key="txt" value="4" />
         </counts>
@@ -94,7 +102,8 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="15" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Markdown" value="174" />
+          <entry key="PLAIN_TEXT" value="32" />
           <entry key="Properties" value="1" />
           <entry key="SQL" value="1" />
         </counts>
@@ -104,10 +113,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lk/ijse/dep/pos/controller/SearchOrdersFormController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1764">
-              <caret line="110" selection-start-line="110" selection-end-line="110" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -138,6 +150,8 @@
         <option value="$PROJECT_DIR$/src/lk/ijse/dep/pos/controller/ManageCustomerFormController.java" />
         <option value="$PROJECT_DIR$/src/lk/ijse/dep/pos/dao/custom/impl/OrderDetailDAOImpl.java" />
         <option value="$PROJECT_DIR$/src/lk/ijse/dep/pos/controller/PlaceOrderFormController.java" />
+        <option value="$PROJECT_DIR$/LIECNSE" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -189,6 +203,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pos" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="layered-pos-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="layered-pos-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pos" type="462c0819:PsiDirectoryNode" />
+              <item name="asset" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -202,7 +223,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="/opt/android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573019966914" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573021064240" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="database.console.LAST_STATE" value="false" />
@@ -374,17 +395,18 @@
       <workItem from="1570950689535" duration="1322000" />
       <workItem from="1571804566266" duration="1512000" />
       <workItem from="1572254288251" duration="1948000" />
-      <workItem from="1573018867233" duration="1140000" />
+      <workItem from="1573018867233" duration="2193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84946000" />
+    <option name="totallyTimeSpent" value="85999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1484375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1484375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -401,7 +423,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Spring" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32904884" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32904884" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32907802" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.32904884" />
@@ -427,10 +449,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lk/ijse/dep/pos/view/style/manageitemform.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/31bb0cab-fc90-44a6-b5ba-c496fe9cccd2/console.sql" />
     <entry file="file://$PROJECT_DIR$/src/lk/ijse/dep/pos/entity/Gender.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -778,8 +796,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lk/ijse/dep/pos/controller/SearchOrdersFormController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1764">
-          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        <state relative-caret-position="231">
+          <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIECNSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
