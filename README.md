@@ -1,4 +1,4 @@
-#Layerd POS with JDBC
+# Layerd POS with JDBC
 
 ([GitHub](http://github.com))LIECENSE
 
