@@ -1,6 +1,7 @@
 .idea/
 *.iml
 out/
+lib/**
 gen/
 idea-gitignore.jar
 resources/templates.list
@@ -11,6 +12,4 @@ junit*.properties
 IgnoreLexer.java~
 .gradle
 .DS_Store
-lib/**
-
 /verification
